@@ -9,19 +9,19 @@
 /* #undef AC_APPLE_UNIVERSAL_BUILD */
 
 /* Version Build */
-#define CLIENT_VERSION_BUILD 3
+#define CLIENT_VERSION_BUILD 3.1
 
 /* Version is release */
 #define CLIENT_VERSION_IS_RELEASE true
 
 /* Major version */
-#define CLIENT_VERSION_MAJOR 2
+#define CLIENT_VERSION_MAJOR 2.1
 
 /* Minor version */
-#define CLIENT_VERSION_MINOR 0
+#define CLIENT_VERSION_MINOR 0.1
 
 /* Build revision */
-#define CLIENT_VERSION_REVISION 0
+#define CLIENT_VERSION_REVISION 0.1
 
 /* Version is release */
 #define COPYRIGHT_YEAR 2017
